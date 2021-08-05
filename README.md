@@ -1,8 +1,8 @@
 # VISProject
-A project about Bernouli and binomial distribution, done in Jupiter Notebook as a school asignment with:
-  -Mihailo Tomasevic
-  -Dejan Draskovic
-  -Ilija Markovic
-  -Kosta Mladenovic
-  -Lazar Mitrovic
-  -Rasa Stojanovic
+A project about Bernouli and binomial distribution, done in Jupiter Notebook as a school asignment with:<br />
+  -Mihailo Tomasevic<br />
+  -Dejan Draskovic<br />
+  -Ilija Markovic<br />
+  -Kosta Mladenovic<br />
+  -Lazar Mitrovic<br />
+  -Rasa Stojanovic<br />
